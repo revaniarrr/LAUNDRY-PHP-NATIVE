@@ -24,7 +24,6 @@ if (isset($_POST["simpan_member"])) {
     }
 
 # untuk update
-
 }else if(isset($_POST["edit_member"])){
         # menampung dulu data yang akan di update
         $id_member = $_POST["id_member"];

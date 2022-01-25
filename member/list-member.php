@@ -74,7 +74,7 @@
                                     </a>
 
                                     <div class="card-footer">
-                                      <a href="process-member.php?id_member=<?=$member["id_member"]?>"
+                                      <a href="delete-member.php?id_member=<?=$member["id_member"]?>"
                                          onclick="return confirm('Are you sure?')">
                                     </div>
                                         <button class="btn btn-danger btn-block">

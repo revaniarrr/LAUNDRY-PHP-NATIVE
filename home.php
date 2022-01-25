@@ -54,9 +54,7 @@
                     <button class="btn btn-dark btn-block ">Transaksi</button>
                 </a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link log" href="../login/login.php">Log In</a>
-            </li>
+
             <li class="nav-item">
                 <a class="nav-link log" href="../login/login.php">Log Out</a>
             </li>

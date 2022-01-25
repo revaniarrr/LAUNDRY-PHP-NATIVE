@@ -101,7 +101,7 @@ if (!isset($_SESSION["user"])) {
                      date_default_timezone_set('Asia/Jakarta');
                     ?>
                     Tanggal Laundry
-                    <input type="text" name="tgl" class="form-control mb-2" 
+                    <input type="date" name="tgl_transaksi" class="form-control mb-2" 
                     readonly value="<?=(date("Y-m-d"))?>">
 
                     Tanggal Ambil
